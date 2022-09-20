@@ -1,6 +1,6 @@
 # drum_kit
 
-A new Flutter project.
+<img width='200' src='assets/screenshots/screenshot-1.png'/>
 
 ## Getting Started
 
